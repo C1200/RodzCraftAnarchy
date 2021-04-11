@@ -1,0 +1,14 @@
+name: RodzCraftAnarchy
+version: ${project.version}
+main: org.js.c1200.rodzcraftanarchy.Main
+api-version: 1.16
+authors: [ C1200 ]
+description: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+website: C1200.js.org
+commands:
+  enable:
+    description: Enables the plugin
+    usage: /<command>
+  disable:
+    description: Disables the plugin
+    usage: /<command>
